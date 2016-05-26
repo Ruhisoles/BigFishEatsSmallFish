@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/PlayerFishLeft.jpg</file>
+        <file>image/Fish1Right.jpg</file>
+        <file>fishManagement.js</file>
+        <file>image/SeeFloor.jpg</file>
+        <file>Fish1.qml</file>
+        <file>Button.qml</file>
+        <file>Fish2.qml</file>
+        <file>Fish3.qml</file>
+        <file>image/Fish2Right.jpg</file>
+        <file>image/Fish3Right.jpg</file>
+    </qresource>
+</RCC>
