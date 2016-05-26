@@ -8,3 +8,5 @@ How to run this game?
 2. Open Qt; click Fille -> Open File or Project -> find the file you just downloaded; open BigFishEatsSmallFish.pro.
 3. Configure the "kits". "kits" are settings used for building and running projects. For example, you can choose Desktop Qt 5.3 MinGW 32 bit. Details see http://doc.qt.io/qtcreator/creator-targets.html.
 4. Press F5 or Ctrl + R (on Windows), or click Build -> Run.
+
+You can see GamePlayDemoPicture.png and GameOverDemoPicture.png to get a preview of the game-playing.
